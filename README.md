@@ -3,7 +3,7 @@
 
 ## Car Price Prediction using Multiple Linear Regression
 
-This project demonstrates how to predict the price of cars using multiple linear regression. Techniques like Recursive Feature Elimination (RFE) and Variance Inflation Factor (VIF) are applied to improve feature selection and reduce multicollinearity.
+This project demonstrates how to predict the price of cars using multiple linear regression.
 
 ### Project Overview
 
